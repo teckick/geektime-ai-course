@@ -1,3 +1,5 @@
+*Continuously Updating with the API Changes*
+
 # Geektime AI Course
 
 See https://time.geekbang.org/column/intro/100541001
